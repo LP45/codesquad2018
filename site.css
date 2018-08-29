@@ -1,0 +1,15 @@
+body {
+	background-color: #fefeff;
+	color: #55b6e;
+}
+a{
+	color:#7ebdc3;
+	text-decoration: none;
+} 
+
+a:visited, a:active{
+	color:#5c8a8e;
+}
+a:hover{
+	text-decoration: underline;
+}
